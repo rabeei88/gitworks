@@ -1,3 +1,7 @@
 > git init [for initialising git]
 > git status [list all untracked files ]
 > git add -A [adding all untracked files to staging area] 
+> git commit -m "commit message" [to commit added files to local repository]
+> git clone [to take exact copy from remote repository to local repository]
+> git push [to take changes from remote repository to local work space ]
+> git pull [to send changes from local repository to remote repository]
